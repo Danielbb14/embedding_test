@@ -1,0 +1,1326 @@
+now look at the results. be comletetely honest in your evvaluation if these are accurate. is this what tthe doctor wants too see. Coutn the ones that pass the test. go thorugh each and every query extensively. 
+[Query 1/83]
+
+🔍 Query: 'háþrýstingur með höfuðverk'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9143]
+   Kona 58 ára með sögu um háþrýsting. Kemur með höfuðverk og svima. BÞ 210/110. Fundus skoðun sýnir blæðingar. Innlögð á HH vegna háþrýstingskreppu. Fékk IV labetalol.
+
+2. ⭐ HIGH [Score: 0.8860]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+3. ⭐ HIGH [Score: 0.8835]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+================================================================================
+
+[Query 2/83]
+
+🔍 Query: 'óreglulegur hjartsláttur'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8773]
+   Sjúklingur 65 ára kona kemur með vaxandi mæði síðustu vikur. Blóðþrýstingur 180/95, púls 88 slög/mín óreglulegur. Bjúgur á fótum. Hjartalínurit sýnir gáttatif. Ávísað warfarin og betablokka.
+
+2. ⭐ HIGH [Score: 0.8739]
+   Gáttatif nýgreint hjá 68 ára karli. CHA2DS2-VASc skor 3. Ávísað apixaban 5mg x2. Einnig bisoprolol til hjartsláttarstjórnunar. Pantað hjartalínurit.
+
+3. ⭐ HIGH [Score: 0.8698]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+================================================================================
+
+[Query 3/83]
+
+🔍 Query: 'brjóstverkur með útgeislun'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8826]
+   Herpes zoster í brjóstkassa. Vesicular útbrot eftir dermatome. Eldri en 50 ára. Valacyclovir 1g x3 í 7 daga. Gabapentin fyrir postherpetic neuralgia.
+
+2. ⭐ HIGH [Score: 0.8764]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+3. ⭐ HIGH [Score: 0.8753]
+   Lungnablóðrek. Skyndilegur brjóstverkur og mæði. D-dímer 4500. CT staðfestir PE í hægri lungna. Meðferð með LMWH síðan warfarin.
+
+================================================================================
+
+[Query 4/83]
+
+🔍 Query: 'bjúgur á fótum hjartabilun'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8798]
+   Hjartabilun NYHA III. Mæði við léttar athafnir daglegs lífs. EF 35% á ómskoðun. NT-proBNP 3500. Meðferð: Furix 40mg x2, enalapril 10mg x2, bisoprolol 5mg x1.
+
+2. ⭐ HIGH [Score: 0.8782]
+   Sjúklingur 65 ára kona kemur með vaxandi mæði síðustu vikur. Blóðþrýstingur 180/95, púls 88 slög/mín óreglulegur. Bjúgur á fótum. Hjartalínurit sýnir gáttatif. Ávísað warfarin og betablokka.
+
+3. ⭐ HIGH [Score: 0.8763]
+   Húðbeðsbólga á fótlegg. Roði, þroti, hiti. Strep grunur. Flucloxacillin 500mg x4. Fótahækkun. Merkt til að fylgjast með útbreiðslu.
+
+================================================================================
+
+[Query 5/83]
+
+🔍 Query: 'kransæðasjúkdómur grunur'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8792]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+2. ⭐ HIGH [Score: 0.8786]
+   Kransæðastífla STEMI. Brjóstverkur síðustu 2 klst með útgeislun í vinstri handlegg. EKG sýnir ST hækkun í II, III, aVF. Troponin T 2500. Sendur strax í kransæðavíkkun.
+
+3. ⭐ HIGH [Score: 0.8746]
+   Útlægur æðasjúkdómur. Klaufi við 50m göngu. ABI 0.6 hægra megin. Reykir 20 síg/dag. Ávísað clopidogrel og statin. Ráðlagt að hætta reykingum strax.
+
+================================================================================
+
+[Query 6/83]
+
+🔍 Query: 'mæði við áreynslu'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8854]
+   COVID-19 eftirköst. Þreyta og mæði við áreynslu 3 mánuðum eftir sýkingu. Súrefnismettun 94% í hvíld. CT brjóstkassa eðlilegt. Endurhæfing ráðlögð.
+
+2. ⭐ HIGH [Score: 0.8809]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+3. ⭐ HIGH [Score: 0.8775]
+   Polymyalgia rheumatica. Verkir í öxlum og mjöðmum, morgunstirðleiki. ESR 85, CRP hátt. Prednisolone 15mg með slow taper.
+
+================================================================================
+
+[Query 7/83]
+
+🔍 Query: 'langvinnur hósti með uppgangi'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8748]
+   Kona 58 ára með sögu um háþrýsting. Kemur með höfuðverk og svima. BÞ 210/110. Fundus skoðun sýnir blæðingar. Innlögð á HH vegna háþrýstingskreppu. Fékk IV labetalol.
+
+2. ⭐ HIGH [Score: 0.8737]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+3. ⭐ HIGH [Score: 0.8719]
+   Lungnaberklar grunur. Þrálátur hósti, nætursviti, þyngdartap. Mantoux +, röntgen sýnir apical changes. Sputum sent, einangrun.
+
+================================================================================
+
+[Query 8/83]
+
+🔍 Query: 'astmi versnandi'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9025]
+   Astmi illa stjórnað. Notar Ventolin daglega. Nætureinkenni 3x/viku. PEF 60% af besta gildi. Meðferð aukin: Seretide 50/500 x2, montelukast 10mg x1.
+
+2. ⭐ HIGH [Score: 0.8901]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+3. ⭐ HIGH [Score: 0.8730]
+   Lungnablóðrek. Skyndilegur brjóstverkur og mæði. D-dímer 4500. CT staðfestir PE í hægri lungna. Meðferð með LMWH síðan warfarin.
+
+================================================================================
+
+[Query 9/83]
+
+🔍 Query: 'lungnabólga hiti hósti'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8984]
+   Lungnabólga hægra neðra blaði. Hiti 39°C, hósti með gulum uppgangi. CRP 180, WBC 18. Röntgen staðfestir. Meðferð með amoxicillin/clavulanic acid 875/125mg x3.
+
+2. ⭐ HIGH [Score: 0.8947]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+3. ⭐ HIGH [Score: 0.8919]
+   Lungnaberklar grunur. Þrálátur hósti, nætursviti, þyngdartap. Mantoux +, röntgen sýnir apical changes. Sputum sent, einangrun.
+
+================================================================================
+
+[Query 10/83]
+
+🔍 Query: 'súrefnismettun lág'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8888]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+2. ⭐ HIGH [Score: 0.8865]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+3. ⭐ HIGH [Score: 0.8835]
+   Chronic retention. Þvagstífla endurtekin. Residual >300ml. Foley catheter. Urology tilvísun fyrir TURP íhugun.
+
+================================================================================
+
+[Query 11/83]
+
+🔍 Query: 'blóðsykur hár nýgreining'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8854]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+2. ⭐ HIGH [Score: 0.8797]
+   Polycythemia vera. Hb 185, hematocrit 55%, kláði eftir bað. JAK2 stökkbreyting +. Phlebotomy og aspirin. Hydroxyurea íhugað.
+
+3. ⭐ HIGH [Score: 0.8733]
+   Járnskortsblóðleysi. Hb 85, MCV 65, ferritin lágt. Menorrhagia orsök. Járn infusion vegna óþols við oral járn. Gynae tilvísun.
+
+================================================================================
+
+[Query 12/83]
+
+🔍 Query: 'skjaldkirtill vandamál'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8791]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+2. ⭐ HIGH [Score: 0.8785]
+   Gigt psoriatic. Húðbreytingar og liðbólga. Dactylitis í 2. fingri. Röntgen sýnir erosions. Methotrexate, ef ónóg svörun þá biological.
+
+3. ⭐ HIGH [Score: 0.8775]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 13/83]
+
+🔍 Query: 'sykursýki stjórnun slæm'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8870]
+   Sykursýki týpa 1. Slæm blóðsykurstjórn, HbA1c 10.2%. Gleymist oft insúlín. CGM sett upp. Insulin degludec og aspart. Fræðsla aukin.
+
+2. ⭐ HIGH [Score: 0.8818]
+   Sykursýki týpa 2 nýgreind. HbA1c 8.9%. Fastandi glúkósi 11.2 mmol/L. BMI 32. Byrjað á metformin 500mg x2, titles upp. Ráðgjöf um mataræði og hreyfingu.
+
+3. ⭐ HIGH [Score: 0.8783]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 14/83]
+
+🔍 Query: 'þyngdartap óútskýrt'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8750]
+   Glútenóþol staðfest. Anti-TTG hátt, villous atrophy á sýni. Glútenlaust mataræði. Eftirlit með B12, járn, D-vítamín.
+
+2. ⭐ HIGH [Score: 0.8727]
+   Chronic retention. Þvagstífla endurtekin. Residual >300ml. Foley catheter. Urology tilvísun fyrir TURP íhugun.
+
+3. ⭐ HIGH [Score: 0.8725]
+   Kæfisvefn alvarlegt. AHI 45/klst. Þreyta á daginn, höfuðverkur á morgnana. BMI 35. Vísað í CPAP meðferð. Ráðlagt þyngdartap.
+
+================================================================================
+
+[Query 15/83]
+
+🔍 Query: 'þunglyndi með svefntruflunum'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8971]
+   Alvarlegt þunglyndi með sjálfsvígshugleiðingum. PHQ-9 skor 22. Svefntruflanir, lystarleysi, þyngdartap 5kg. Byrjað á sertraline 50mg og vísað til geðlæknis strax.
+
+2. ⭐ HIGH [Score: 0.8868]
+   Fibromyalgia. Útbreiddur verkur >3 mánuði, þreyta, svefntruflanir. Tender points 14/18. Amitriptyline 25mg og þverfagleg nálgun.
+
+3. ⭐ HIGH [Score: 0.8864]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 16/83]
+
+🔍 Query: 'kvíði og hjartsláttarónot'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8802]
+   Gáttatif nýgreint hjá 68 ára karli. CHA2DS2-VASc skor 3. Ávísað apixaban 5mg x2. Einnig bisoprolol til hjartsláttarstjórnunar. Pantað hjartalínurit.
+
+2. ⭐ HIGH [Score: 0.8765]
+   Skjaldvakaeitrun. Hjartsláttarónot, þyngdartap þrátt fyrir góða matarlyst. TSH <0.01, fT4 hátt. Graves sjúkdómur líklegur. Meðferð með carbimazole.
+
+3. ⭐ HIGH [Score: 0.8733]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+================================================================================
+
+[Query 17/83]
+
+🔍 Query: 'sjálfsvígshugsanir'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8872]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+2. ⭐ HIGH [Score: 0.8843]
+   Alvarlegt þunglyndi með sjálfsvígshugleiðingum. PHQ-9 skor 22. Svefntruflanir, lystarleysi, þyngdartap 5kg. Byrjað á sertraline 50mg og vísað til geðlæknis strax.
+
+3. ⭐ HIGH [Score: 0.8824]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+================================================================================
+
+[Query 18/83]
+
+🔍 Query: 'áfengismisnotkun'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8992]
+   Fíknisjúkdómur. Áfengismisnotkun í 10 ár. AUDIT skor 28. Detox meðferð á Vogi ráðlögð. Thiamine gefið prophylactically.
+
+2. ⭐ HIGH [Score: 0.8917]
+   Lifrarsjúkdómur af völdum áfengis. Ascites, gula, spider naevi. Bilirubin 85, albumin lágt. Spironolactone og furosemide. Áfengisbindindi nauðsynlegt.
+
+3. ⭐ HIGH [Score: 0.8733]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 19/83]
+
+🔍 Query: 'kviðverkir endurteknir'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8805]
+   Garnastífla. Kviðverkir, uppköst, vindgangur stöðvaður. Röntgen sýnir dilated loops. Nasogastric tube, vökvagjöf. Fylgst með hvort skurðaðgerð þurfi.
+
+2. ⭐ HIGH [Score: 0.8783]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+3. ⭐ HIGH [Score: 0.8770]
+   Lifrarbólga C nýgreind. Þreyta, óljós kviðverkur. Anti-HCV +, PCR staðfestir. Genotype ákvörðun. Direct-acting antivirals fyrirhugað.
+
+================================================================================
+
+[Query 20/83]
+
+🔍 Query: 'blóð í hægðum'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8918]
+   Ristilkrabbamein. Breytingar á hægðavenjum, blóð í hægðum. Colonoscopy sýnir 3cm æxli í sigmoid. CEA hækkað. Vísað til skurðlæknis.
+
+2. ⭐ HIGH [Score: 0.8850]
+   Hemophilia A mild. Blæðing eftir tanndrátt. Factor VIII 15%. Desmopressin fyrir minor inngrip. Factor concentrate fyrir major.
+
+3. ⭐ HIGH [Score: 0.8849]
+   Immune thrombocytopenia. Blæðingar í húð, platelets 15. Önnur orsök útilokaðar. Prednisolone 1mg/kg. IVIG ef bráð blæðing.
+
+================================================================================
+
+[Query 21/83]
+
+🔍 Query: 'magaverkir með ógleði'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8884]
+   Rosacea með ocular involvement. Flushing, papules, augnerting. Metronidazole gel, doxycycline lágskammta.
+
+2. ⭐ HIGH [Score: 0.8837]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+3. ⭐ HIGH [Score: 0.8801]
+   Herpes zoster í brjóstkassa. Vesicular útbrot eftir dermatome. Eldri en 50 ára. Valacyclovir 1g x3 í 7 daga. Gabapentin fyrir postherpetic neuralgia.
+
+================================================================================
+
+[Query 22/83]
+
+🔍 Query: 'brjóstsviði daglega'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8831]
+   Vélindabakflæði. Brjóstsviði daglega, sérstaklega eftir máltíðir. Raddþroti á morgnana. PPI meðferð og lifestyle ráðgjöf. Gastroskópía ef engin betrun.
+
+2. ⭐ HIGH [Score: 0.8740]
+   Herpes zoster í brjóstkassa. Vesicular útbrot eftir dermatome. Eldri en 50 ára. Valacyclovir 1g x3 í 7 daga. Gabapentin fyrir postherpetic neuralgia.
+
+3. ⭐ HIGH [Score: 0.8710]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+================================================================================
+
+[Query 23/83]
+
+🔍 Query: 'niðurgangur langvinnur'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8826]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+2. ⭐ HIGH [Score: 0.8802]
+   Fíknisjúkdómur. Áfengismisnotkun í 10 ár. AUDIT skor 28. Detox meðferð á Vogi ráðlögð. Thiamine gefið prophylactically.
+
+3. ⭐ HIGH [Score: 0.8794]
+   Crohns sjúkdómur. Niðurgangur með blóði, kviðverkir, þyngdartap. Calprotectin >1000. MR enterography sýnir bólgu í ileum. Prednisolone og azathioprine.
+
+================================================================================
+
+[Query 24/83]
+
+🔍 Query: 'liðverkir með bólgu'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8842]
+   Gigt psoriatic. Húðbreytingar og liðbólga. Dactylitis í 2. fingri. Röntgen sýnir erosions. Methotrexate, ef ónóg svörun þá biological.
+
+2. ⭐ HIGH [Score: 0.8807]
+   Húðbeðsbólga á fótlegg. Roði, þroti, hiti. Strep grunur. Flucloxacillin 500mg x4. Fótahækkun. Merkt til að fylgjast með útbreiðslu.
+
+3. ⭐ HIGH [Score: 0.8781]
+   Crohns sjúkdómur. Niðurgangur með blóði, kviðverkir, þyngdartap. Calprotectin >1000. MR enterography sýnir bólgu í ileum. Prednisolone og azathioprine.
+
+================================================================================
+
+[Query 25/83]
+
+🔍 Query: 'bakverkur með geislun í fót'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8862]
+   Mjóbakskast með ischias. Geislandi verkur niður í hægri fót. SLR jákvætt. MRI sýnir L5/S1 disc herniation. Sjúkraþjálfun, ef engin betrun þá vísað til taugaskurðlæknis.
+
+2. ⭐ HIGH [Score: 0.8793]
+   Gigt psoriatic. Húðbreytingar og liðbólga. Dactylitis í 2. fingri. Röntgen sýnir erosions. Methotrexate, ef ónóg svörun þá biological.
+
+3. ⭐ HIGH [Score: 0.8738]
+   Húðbeðsbólga á fótlegg. Roði, þroti, hiti. Strep grunur. Flucloxacillin 500mg x4. Fótahækkun. Merkt til að fylgjast með útbreiðslu.
+
+================================================================================
+
+[Query 26/83]
+
+🔍 Query: 'morgunstirðleiki í liðum'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8798]
+   Polymyalgia rheumatica. Verkir í öxlum og mjöðmum, morgunstirðleiki. ESR 85, CRP hátt. Prednisolone 15mg með slow taper.
+
+2. ⭐ HIGH [Score: 0.8746]
+   Iktsýki virk. Bólga og verkir í MCP og PIP liðum. Morgunstirðleiki >1 klst. RF og anti-CCP jákvætt. Methotrexate 15mg/viku, folic acid.
+
+3. ⭐ HIGH [Score: 0.8740]
+   Vélindabakflæði. Brjóstsviði daglega, sérstaklega eftir máltíðir. Raddþroti á morgnana. PPI meðferð og lifestyle ráðgjöf. Gastroskópía ef engin betrun.
+
+================================================================================
+
+[Query 27/83]
+
+🔍 Query: 'beinþynning grunur'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8814]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+2. ⭐ HIGH [Score: 0.8786]
+   Meningitis bakteríumeingitis grunur. Höfuðverkur, háls stífleiki, ljósfælni. LP framkvæmt. Empirical ceftriaxone + vancomycin.
+
+3. ⭐ HIGH [Score: 0.8771]
+   Beinþynning T-score -2.8. Tvö rifbeinsbrot án áverka. Alendronate 70mg vikulega, kalk og D-vítamín. DEXA eftir 2 ár.
+
+================================================================================
+
+[Query 28/83]
+
+🔍 Query: 'höfuðverkur endurtekinn'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8896]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+2. ⭐ HIGH [Score: 0.8881]
+   Meningitis bakteríumeingitis grunur. Höfuðverkur, háls stífleiki, ljósfælni. LP framkvæmt. Empirical ceftriaxone + vancomycin.
+
+3. ⭐ HIGH [Score: 0.8757]
+   Chronic retention. Þvagstífla endurtekin. Residual >300ml. Foley catheter. Urology tilvísun fyrir TURP íhugun.
+
+================================================================================
+
+[Query 29/83]
+
+🔍 Query: 'dofi og kraftleysi'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8807]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+2. ⭐ HIGH [Score: 0.8729]
+   Parkinsons nýgreint. Skjálfti í hvíld, hægir hreyfingar, stífleiki. DaTscan óeðlilegt. Levodopa/carbidopa byrjað. Sjúkraþjálfun mikilvæg.
+
+3. ⭐ HIGH [Score: 0.8694]
+   Essential tremor. Skjálfti í höndum við athafnir, versnar við stress. Erfðir í fjölskyldu. Propranolol reynt, íhuga primidone.
+
+================================================================================
+
+[Query 30/83]
+
+🔍 Query: 'skjálfti í höndum'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8879]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+2. ⭐ HIGH [Score: 0.8875]
+   Essential tremor. Skjálfti í höndum við athafnir, versnar við stress. Erfðir í fjölskyldu. Propranolol reynt, íhuga primidone.
+
+3. ⭐ HIGH [Score: 0.8724]
+   TIA. Skammvinn málstol og slappleiki hægri handar. Carotid doppler sýnir 70% þrengsli. Aspirin og statin. Vísað í carotid endarterectomy.
+
+================================================================================
+
+[Query 31/83]
+
+🔍 Query: 'minnistap versnandi'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8935]
+   Alzheimers sjúkdómur. Minnisglöp versnandi, villst í kunnuglegu umhverfi. MMSE 20/30. Donepezil byrjað. Stuðningur fyrir fjölskyldu.
+
+2. ⭐ HIGH [Score: 0.8862]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+3. ⭐ HIGH [Score: 0.8843]
+   ADHD fullorðinna. Einbeitingarskortur, hvatvísi, gleymska. ASRS jákvætt. Vísað til sálfræðings fyrir greiningu. Methylphenidate íhugað.
+
+================================================================================
+
+[Query 32/83]
+
+🔍 Query: 'kreatínín hækkað'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8919]
+   Nýrnabilun bráð. Kreatínín hækkaði úr 90 í 450 á viku. Lyfjatengd (NSAIDs + ACE-I + þvagræsilyf). Lyf stöðvuð, vökvagjöf.
+
+2. ⭐ HIGH [Score: 0.8794]
+   Langvinn nýrnabilun stig 3b. eGFR 35, kreatínín 180. Blóðþrýstingur vel stjórnaður. Prótein í þvagi. ESA fyrir blóðleysi, phosphate binders.
+
+3. ⭐ HIGH [Score: 0.8765]
+   Glomerulonephritis. Proteinuria 3g/24klst, RBC casts. Complement lágt. Nýrnasýni sýnir IgA nephropathy. ACE-I og eftirlit.
+
+================================================================================
+
+[Query 33/83]
+
+🔍 Query: 'prótein í þvagi'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8800]
+   Glútenóþol staðfest. Anti-TTG hátt, villous atrophy á sýni. Glútenlaust mataræði. Eftirlit með B12, járn, D-vítamín.
+
+2. ⭐ HIGH [Score: 0.8731]
+   Langvinn nýrnabilun stig 3b. eGFR 35, kreatínín 180. Blóðþrýstingur vel stjórnaður. Prótein í þvagi. ESA fyrir blóðleysi, phosphate binders.
+
+3. ⭐ HIGH [Score: 0.8672]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 34/83]
+
+🔍 Query: 'nýrnasteinar verkir'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8988]
+   Nýrnasteinar. Flankverk hægra megin, hematuria. CT sýnir 6mm stein í ureter. Vökvagjöf, verkjastilling. Alpha-blocker til að hjálpa passage.
+
+2. ⭐ HIGH [Score: 0.8818]
+   Gallsteinar með cholecystitis. Verkur hægra megin undir rifbeinum, hiti 38.5°C. Murphy's sign +. Ultrasound staðfestir. Vísað í cholecystectomy.
+
+3. ⭐ HIGH [Score: 0.8815]
+   Kalkkirtlaofvirki. Kalsíum 3.1 mmol/L, PTH hækkað. Nýrnasteinar endurteknir. Vísað til skurðlæknis vegna parathyroidectomy.
+
+================================================================================
+
+[Query 35/83]
+
+🔍 Query: 'þvagfærasýking með hita'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9046]
+   Þvagfærasýking með pyelonephritis. Hiti 39°C, flankverk, dysuria. Nitrit jákvætt. Blóðrækt tekin. Ciprofloxacin IV síðan PO.
+
+2. ⭐ HIGH [Score: 0.8928]
+   Sepsis af völdum E.coli. Hiti 40°C, lágþrýstingur, confusion. Blóðrækt jákvæð. Breiðvirk sýklalyf strax, síðan þrengt eftir næmi.
+
+3. ⭐ HIGH [Score: 0.8842]
+   Gallsteinar með cholecystitis. Verkur hægra megin undir rifbeinum, hiti 38.5°C. Murphy's sign +. Ultrasound staðfestir. Vísað í cholecystectomy.
+
+================================================================================
+
+[Query 36/83]
+
+🔍 Query: 'hiti og verkir óljós orsök'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8807]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+2. ⭐ HIGH [Score: 0.8757]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+3. ⭐ HIGH [Score: 0.8741]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+================================================================================
+
+[Query 37/83]
+
+🔍 Query: 'þyngdartap þreyta'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8837]
+   Kæfisvefn alvarlegt. AHI 45/klst. Þreyta á daginn, höfuðverkur á morgnana. BMI 35. Vísað í CPAP meðferð. Ráðlagt þyngdartap.
+
+2. ⭐ HIGH [Score: 0.8827]
+   Skjaldvakabrestur. TSH 45, fT4 lágt. Þreyta, þyngdaraukning, kuldi. Byrjað á levothyroxine 50mcg. Endurmat eftir 6 vikur.
+
+3. ⭐ HIGH [Score: 0.8825]
+   Chronic retention. Þvagstífla endurtekin. Residual >300ml. Foley catheter. Urology tilvísun fyrir TURP íhugun.
+
+================================================================================
+
+[Query 38/83]
+
+🔍 Query: 'blæðing óeðlileg'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8816]
+   Blöðruhálskirtilsstækkun. Tíð þvaglát, næturþvaglát 4x, weak stream. PSA 3.5. Tamsulosin byrjað. Cystoscopy ef engin betrun.
+
+2. ⭐ HIGH [Score: 0.8765]
+   Immune thrombocytopenia. Blæðingar í húð, platelets 15. Önnur orsök útilokaðar. Prednisolone 1mg/kg. IVIG ef bráð blæðing.
+
+3. ⭐ HIGH [Score: 0.8704]
+   Þvagblöðrukrabbamein. Painless hematuria hjá 70 ára reykingarkarli. Cystoscopy sýnir papillary tumor. TURBT framkvæmd.
+
+================================================================================
+
+[Query 39/83]
+
+🔍 Query: 'bráð einkenni brjóstkassi'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8840]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+2. ⭐ HIGH [Score: 0.8795]
+   Berkjubólga bráð. Þurr hósti í 2 vikur eftir kvef. Hreinir lungu við hlustun. CRP <5. Ráðlagt symptomatic meðferð, inhalation með NaCl.
+
+3. ⭐ HIGH [Score: 0.8725]
+   Ristilkrabbamein. Breytingar á hægðavenjum, blóð í hægðum. Colonoscopy sýnir 3cm æxli í sigmoid. CEA hækkað. Vísað til skurðlæknis.
+
+================================================================================
+
+[Query 40/83]
+
+🔍 Query: 'sykursýki með fylgikvillum'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8966]
+   Sykursýki týpa 2 nýgreind. HbA1c 8.9%. Fastandi glúkósi 11.2 mmol/L. BMI 32. Byrjað á metformin 500mg x2, titles upp. Ráðgjöf um mataræði og hreyfingu.
+
+2. ⭐ HIGH [Score: 0.8939]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+3. ⭐ HIGH [Score: 0.8897]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 41/83]
+
+🔍 Query: 'háþrýstingur erfiður að stjórna'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8819]
+   Kona 58 ára með sögu um háþrýsting. Kemur með höfuðverk og svima. BÞ 210/110. Fundus skoðun sýnir blæðingar. Innlögð á HH vegna háþrýstingskreppu. Fékk IV labetalol.
+
+2. ⭐ HIGH [Score: 0.8759]
+   Sjúklingur 65 ára kona kemur með vaxandi mæði síðustu vikur. Blóðþrýstingur 180/95, púls 88 slög/mín óreglulegur. Bjúgur á fótum. Hjartalínurit sýnir gáttatif. Ávísað warfarin og betablokka.
+
+3. ⭐ HIGH [Score: 0.8701]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+================================================================================
+
+[Query 42/83]
+
+🔍 Query: 'verkir margvíslegir fibro grunur'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8849]
+   Fibromyalgia. Útbreiddur verkur >3 mánuði, þreyta, svefntruflanir. Tender points 14/18. Amitriptyline 25mg og þverfagleg nálgun.
+
+2. ⭐ HIGH [Score: 0.8772]
+   Meningitis bakteríumeingitis grunur. Höfuðverkur, háls stífleiki, ljósfælni. LP framkvæmt. Empirical ceftriaxone + vancomycin.
+
+3. ⭐ HIGH [Score: 0.8768]
+   Melanoma grunur. Óreglulegur fæðingarblettur með litabreytingum. Dermoscopy grunsamlegt. Excision biopsy, wide margins ef staðfest.
+
+================================================================================
+
+[Query 43/83]
+
+🔍 Query: 'þreyta langvinn með öðrum einkennum'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8864]
+   Fibromyalgia. Útbreiddur verkur >3 mánuði, þreyta, svefntruflanir. Tender points 14/18. Amitriptyline 25mg og þverfagleg nálgun.
+
+2. ⭐ HIGH [Score: 0.8842]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+3. ⭐ HIGH [Score: 0.8821]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+================================================================================
+
+[Query 44/83]
+
+🔍 Query: 'eitthvað með hjartað kannski'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8784]
+   Gáttatif nýgreint hjá 68 ára karli. CHA2DS2-VASc skor 3. Ávísað apixaban 5mg x2. Einnig bisoprolol til hjartsláttarstjórnunar. Pantað hjartalínurit.
+
+2. ⭐ HIGH [Score: 0.8781]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+3. ⭐ HIGH [Score: 0.8777]
+   Essential tremor. Skjálfti í höndum við athafnir, versnar við stress. Erfðir í fjölskyldu. Propranolol reynt, íhuga primidone.
+
+================================================================================
+
+[Query 45/83]
+
+🔍 Query: 'öndunarerfiðleikar ekki viss hvað'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8717]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+2. ⭐ HIGH [Score: 0.8700]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+3. ⭐ HIGH [Score: 0.8684]
+   Astmi illa stjórnað. Notar Ventolin daglega. Nætureinkenni 3x/viku. PEF 60% af besta gildi. Meðferð aukin: Seretide 50/500 x2, montelukast 10mg x1.
+
+================================================================================
+
+[Query 46/83]
+
+🔍 Query: 'geðrænt eitthvað þunglyndi eða kvíði'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8916]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+2. ⭐ HIGH [Score: 0.8813]
+   Alvarlegt þunglyndi með sjálfsvígshugleiðingum. PHQ-9 skor 22. Svefntruflanir, lystarleysi, þyngdartap 5kg. Byrjað á sertraline 50mg og vísað til geðlæknis strax.
+
+3. ⭐ HIGH [Score: 0.8756]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 47/83]
+
+🔍 Query: 'magavandamál sár eða bólga'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8743]
+   Herpes zoster í brjóstkassa. Vesicular útbrot eftir dermatome. Eldri en 50 ára. Valacyclovir 1g x3 í 7 daga. Gabapentin fyrir postherpetic neuralgia.
+
+2. ⭐ HIGH [Score: 0.8688]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+3. ⭐ HIGH [Score: 0.8662]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 48/83]
+
+🔍 Query: 'liðir verkja mikið gigt kannski'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8789]
+   Gigt psoriatic. Húðbreytingar og liðbólga. Dactylitis í 2. fingri. Röntgen sýnir erosions. Methotrexate, ef ónóg svörun þá biological.
+
+2. ⭐ HIGH [Score: 0.8736]
+   Fibromyalgia. Útbreiddur verkur >3 mánuði, þreyta, svefntruflanir. Tender points 14/18. Amitriptyline 25mg og þverfagleg nálgun.
+
+3. ⭐ HIGH [Score: 0.8732]
+   Polymyalgia rheumatica. Verkir í öxlum og mjöðmum, morgunstirðleiki. ESR 85, CRP hátt. Prednisolone 15mg með slow taper.
+
+================================================================================
+
+[Query 49/83]
+
+🔍 Query: 'blóðþrýstingur hátt með fylgieinkennum'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8845]
+   Kona 58 ára með sögu um háþrýsting. Kemur með höfuðverk og svima. BÞ 210/110. Fundus skoðun sýnir blæðingar. Innlögð á HH vegna háþrýstingskreppu. Fékk IV labetalol.
+
+2. ⭐ HIGH [Score: 0.8836]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+3. ⭐ HIGH [Score: 0.8825]
+   Sjúklingur 65 ára kona kemur með vaxandi mæði síðustu vikur. Blóðþrýstingur 180/95, púls 88 slög/mín óreglulegur. Bjúgur á fótum. Hjartalínurit sýnir gáttatif. Ávísað warfarin og betablokka.
+
+================================================================================
+
+[Query 50/83]
+
+🔍 Query: 'sykur vandamál týpa 2 líklega'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9046]
+   Sykursýki týpa 2 nýgreind. HbA1c 8.9%. Fastandi glúkósi 11.2 mmol/L. BMI 32. Byrjað á metformin 500mg x2, titles upp. Ráðgjöf um mataræði og hreyfingu.
+
+2. ⭐ HIGH [Score: 0.8866]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+3. ⭐ HIGH [Score: 0.8857]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+================================================================================
+
+[Query 51/83]
+
+🔍 Query: 'höfuðverkur mígreni eða eitthvað annað'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8893]
+   Meningitis bakteríumeingitis grunur. Höfuðverkur, háls stífleiki, ljósfælni. LP framkvæmt. Empirical ceftriaxone + vancomycin.
+
+2. ⭐ HIGH [Score: 0.8885]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+3. ⭐ HIGH [Score: 0.8759]
+   Fibromyalgia. Útbreiddur verkur >3 mánuði, þreyta, svefntruflanir. Tender points 14/18. Amitriptyline 25mg og þverfagleg nálgun.
+
+================================================================================
+
+[Query 52/83]
+
+🔍 Query: 'nýru eitthvað kreatínín hátt'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8937]
+   Nýrnabilun bráð. Kreatínín hækkaði úr 90 í 450 á viku. Lyfjatengd (NSAIDs + ACE-I + þvagræsilyf). Lyf stöðvuð, vökvagjöf.
+
+2. ⭐ HIGH [Score: 0.8795]
+   Bráð nýrnabilun af völdum metformin. Kreatínín 350. Acidosis pH 7.25. Metformin stöðvað, vökvagjöf, dialysis íhuguð.
+
+3. ⭐ HIGH [Score: 0.8778]
+   Langvinn nýrnabilun stig 3b. eGFR 35, kreatínín 180. Blóðþrýstingur vel stjórnaður. Prótein í þvagi. ESA fyrir blóðleysi, phosphate binders.
+
+================================================================================
+
+[Query 53/83]
+
+🔍 Query: 'húð vandamál útbrot eða exem'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9054]
+   Exem atópískt. Kláði, þurr húð, flexural involvement. Emollients ríkulega, topical steroids. Tacrolimus fyrir andlit.
+
+2. ⭐ HIGH [Score: 0.8940]
+   Melanoma grunur. Óreglulegur fæðingarblettur með litabreytingum. Dermoscopy grunsamlegt. Excision biopsy, wide margins ef staðfest.
+
+3. ⭐ HIGH [Score: 0.8836]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 54/83]
+
+🔍 Query: 'mæði brjóstverkur hjartsláttarónot'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8901]
+   Lungnablóðrek. Skyndilegur brjóstverkur og mæði. D-dímer 4500. CT staðfestir PE í hægri lungna. Meðferð með LMWH síðan warfarin.
+
+2. ⭐ HIGH [Score: 0.8834]
+   COVID-19 eftirköst. Þreyta og mæði við áreynslu 3 mánuðum eftir sýkingu. Súrefnismettun 94% í hvíld. CT brjóstkassa eðlilegt. Endurhæfing ráðlögð.
+
+3. ⭐ HIGH [Score: 0.8828]
+   Sjúklingur 65 ára kona kemur með vaxandi mæði síðustu vikur. Blóðþrýstingur 180/95, púls 88 slög/mín óreglulegur. Bjúgur á fótum. Hjartalínurit sýnir gáttatif. Ávísað warfarin og betablokka.
+
+================================================================================
+
+[Query 55/83]
+
+🔍 Query: 'hiti hósti uppgangur gult'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8767]
+   Húðbeðsbólga á fótlegg. Roði, þroti, hiti. Strep grunur. Flucloxacillin 500mg x4. Fótahækkun. Merkt til að fylgjast með útbreiðslu.
+
+2. ⭐ HIGH [Score: 0.8764]
+   Lungnabólga hægra neðra blaði. Hiti 39°C, hósti með gulum uppgangi. CRP 180, WBC 18. Röntgen staðfestir. Meðferð með amoxicillin/clavulanic acid 875/125mg x3.
+
+3. ⭐ HIGH [Score: 0.8734]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+================================================================================
+
+[Query 56/83]
+
+🔍 Query: 'þyngdartap nætursviti þreyta'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8811]
+   Kæfisvefn alvarlegt. AHI 45/klst. Þreyta á daginn, höfuðverkur á morgnana. BMI 35. Vísað í CPAP meðferð. Ráðlagt þyngdartap.
+
+2. ⭐ HIGH [Score: 0.8806]
+   Lungnaberklar grunur. Þrálátur hósti, nætursviti, þyngdartap. Mantoux +, röntgen sýnir apical changes. Sputum sent, einangrun.
+
+3. ⭐ HIGH [Score: 0.8794]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+================================================================================
+
+[Query 57/83]
+
+🔍 Query: 'kviðverkir ógleði uppköst'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8739]
+   Garnastífla. Kviðverkir, uppköst, vindgangur stöðvaður. Röntgen sýnir dilated loops. Nasogastric tube, vökvagjöf. Fylgst með hvort skurðaðgerð þurfi.
+
+2. ⭐ HIGH [Score: 0.8724]
+   Karl 72 ára, reykingasaga 40 pakkaár. Kviðverkir við áreynslu sem hverfa í hvíld. Blóðþrýstingur 145/85. Kólesteról 7.2 mmol/L. Áreynslupróf jákvætt. Vísað í kransæðamyndatöku.
+
+3. ⭐ HIGH [Score: 0.8706]
+   Lifrarbólga C nýgreind. Þreyta, óljós kviðverkur. Anti-HCV +, PCR staðfestir. Genotype ákvörðun. Direct-acting antivirals fyrirhugað.
+
+================================================================================
+
+[Query 58/83]
+
+🔍 Query: 'dofi máttleysi taltruflanir'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8873]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+2. ⭐ HIGH [Score: 0.8830]
+   Glútenóþol staðfest. Anti-TTG hátt, villous atrophy á sýni. Glútenlaust mataræði. Eftirlit með B12, járn, D-vítamín.
+
+3. ⭐ HIGH [Score: 0.8807]
+   MS grunur. Sjóntruflanir, dofi í fótum. MRI sýnir white matter lesions. Oligoclonal bands í CSF. Vísað til taugalæknis.
+
+================================================================================
+
+[Query 59/83]
+
+🔍 Query: 'bjúgur mæði þyngdaraukning'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8778]
+   Sykursýki týpa 2 nýgreind. HbA1c 8.9%. Fastandi glúkósi 11.2 mmol/L. BMI 32. Byrjað á metformin 500mg x2, titles upp. Ráðgjöf um mataræði og hreyfingu.
+
+2. ⭐ HIGH [Score: 0.8731]
+   Skjaldvakabrestur. TSH 45, fT4 lágt. Þreyta, þyngdaraukning, kuldi. Byrjað á levothyroxine 50mcg. Endurmat eftir 6 vikur.
+
+3. ⭐ HIGH [Score: 0.8726]
+   Chronic retention. Þvagstífla endurtekin. Residual >300ml. Foley catheter. Urology tilvísun fyrir TURP íhugun.
+
+================================================================================
+
+[Query 60/83]
+
+🔍 Query: 'blæðingar óreglulegar mar'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8762]
+   Blöðruhálskirtilsstækkun. Tíð þvaglát, næturþvaglát 4x, weak stream. PSA 3.5. Tamsulosin byrjað. Cystoscopy ef engin betrun.
+
+2. ⭐ HIGH [Score: 0.8709]
+   Immune thrombocytopenia. Blæðingar í húð, platelets 15. Önnur orsök útilokaðar. Prednisolone 1mg/kg. IVIG ef bráð blæðing.
+
+3. ⭐ HIGH [Score: 0.8696]
+   Vélindabakflæði. Brjóstsviði daglega, sérstaklega eftir máltíðir. Raddþroti á morgnana. PPI meðferð og lifestyle ráðgjöf. Gastroskópía ef engin betrun.
+
+================================================================================
+
+[Query 61/83]
+
+🔍 Query: 'svimi höfuðverkur sjóntruflanir'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9017]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+2. ⭐ HIGH [Score: 0.8845]
+   Meningitis bakteríumeingitis grunur. Höfuðverkur, háls stífleiki, ljósfælni. LP framkvæmt. Empirical ceftriaxone + vancomycin.
+
+3. ⭐ HIGH [Score: 0.8819]
+   MS grunur. Sjóntruflanir, dofi í fótum. MRI sýnir white matter lesions. Oligoclonal bands í CSF. Vísað til taugalæknis.
+
+================================================================================
+
+[Query 62/83]
+
+🔍 Query: 'húðútbrot kláði roði'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8914]
+   Exem atópískt. Kláði, þurr húð, flexural involvement. Emollients ríkulega, topical steroids. Tacrolimus fyrir andlit.
+
+2. ⭐ HIGH [Score: 0.8854]
+   Húðbeðsbólga á fótlegg. Roði, þroti, hiti. Strep grunur. Flucloxacillin 500mg x4. Fótahækkun. Merkt til að fylgjast með útbreiðslu.
+
+3. ⭐ HIGH [Score: 0.8835]
+   Melanoma grunur. Óreglulegur fæðingarblettur með litabreytingum. Dermoscopy grunsamlegt. Excision biopsy, wide margins ef staðfest.
+
+================================================================================
+
+[Query 63/83]
+
+🔍 Query: 'þvaglát tíð svíði'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8822]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+2. ⭐ HIGH [Score: 0.8770]
+   Blöðruhálskirtilsstækkun. Tíð þvaglát, næturþvaglát 4x, weak stream. PSA 3.5. Tamsulosin byrjað. Cystoscopy ef engin betrun.
+
+3. ⭐ HIGH [Score: 0.8728]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+================================================================================
+
+[Query 64/83]
+
+🔍 Query: 'blóðþrýstingur 180/100 eða hærra'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8927]
+   Sjúklingur 65 ára kona kemur með vaxandi mæði síðustu vikur. Blóðþrýstingur 180/95, púls 88 slög/mín óreglulegur. Bjúgur á fótum. Hjartalínurit sýnir gáttatif. Ávísað warfarin og betablokka.
+
+2. ⭐ HIGH [Score: 0.8917]
+   Kona 58 ára með sögu um háþrýsting. Kemur með höfuðverk og svima. BÞ 210/110. Fundus skoðun sýnir blæðingar. Innlögð á HH vegna háþrýstingskreppu. Fékk IV labetalol.
+
+3. ⭐ HIGH [Score: 0.8802]
+   Langvinn nýrnabilun stig 3b. eGFR 35, kreatínín 180. Blóðþrýstingur vel stjórnaður. Prótein í þvagi. ESA fyrir blóðleysi, phosphate binders.
+
+================================================================================
+
+[Query 65/83]
+
+🔍 Query: 'HbA1c yfir 8'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9114]
+   Sykursýki týpa 2 nýgreind. HbA1c 8.9%. Fastandi glúkósi 11.2 mmol/L. BMI 32. Byrjað á metformin 500mg x2, titles upp. Ráðgjöf um mataræði og hreyfingu.
+
+2. ⭐ HIGH [Score: 0.8963]
+   Sykursýki týpa 1. Slæm blóðsykurstjórn, HbA1c 10.2%. Gleymist oft insúlín. CGM sett upp. Insulin degludec og aspart. Fræðsla aukin.
+
+3. ⭐ HIGH [Score: 0.8933]
+   Insúlínviðnám. PCOS hjá 28 ára konu. BMI 29, óreglulegar tíðir. OGTT sýnir IGT. Metformin 850mg x2, ráðlagt þyngdartap.
+
+================================================================================
+
+[Query 66/83]
+
+🔍 Query: 'kreatínín 200-400'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8835]
+   Nýrnabilun bráð. Kreatínín hækkaði úr 90 í 450 á viku. Lyfjatengd (NSAIDs + ACE-I + þvagræsilyf). Lyf stöðvuð, vökvagjöf.
+
+2. ⭐ HIGH [Score: 0.8761]
+   Bráð nýrnabilun af völdum metformin. Kreatínín 350. Acidosis pH 7.25. Metformin stöðvað, vökvagjöf, dialysis íhuguð.
+
+3. ⭐ HIGH [Score: 0.8750]
+   Langvinn nýrnabilun stig 3b. eGFR 35, kreatínín 180. Blóðþrýstingur vel stjórnaður. Prótein í þvagi. ESA fyrir blóðleysi, phosphate binders.
+
+================================================================================
+
+[Query 67/83]
+
+🔍 Query: 'CRP hátt sýking'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8897]
+   Crohns sjúkdómur. Niðurgangur með blóði, kviðverkir, þyngdartap. Calprotectin >1000. MR enterography sýnir bólgu í ileum. Prednisolone og azathioprine.
+
+2. ⭐ HIGH [Score: 0.8845]
+   Polymyalgia rheumatica. Verkir í öxlum og mjöðmum, morgunstirðleiki. ESR 85, CRP hátt. Prednisolone 15mg með slow taper.
+
+3. ⭐ HIGH [Score: 0.8832]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+================================================================================
+
+[Query 68/83]
+
+🔍 Query: 'EKG breytingar ST'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8912]
+   Kransæðastífla STEMI. Brjóstverkur síðustu 2 klst með útgeislun í vinstri handlegg. EKG sýnir ST hækkun í II, III, aVF. Troponin T 2500. Sendur strax í kransæðavíkkun.
+
+2. ⭐ HIGH [Score: 0.8753]
+   Heilablóðfall ischaemic. Vinstri helftarlömun, málstol. CT útilokað blæðingu. tPA gefið innan 4.5 klst. Innlögn á stroke unit.
+
+3. ⭐ HIGH [Score: 0.8720]
+   TIA. Skammvinn málstol og slappleiki hægri handar. Carotid doppler sýnir 70% þrengsli. Aspirin og statin. Vísað í carotid endarterectomy.
+
+================================================================================
+
+[Query 69/83]
+
+🔍 Query: 'hvítfrumur hækkaðar'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8766]
+   Lifrarsjúkdómur af völdum áfengis. Ascites, gula, spider naevi. Bilirubin 85, albumin lágt. Spironolactone og furosemide. Áfengisbindindi nauðsynlegt.
+
+2. ⭐ HIGH [Score: 0.8686]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+3. ⭐ HIGH [Score: 0.8681]
+   Nýrnabilun bráð. Kreatínín hækkaði úr 90 í 450 á viku. Lyfjatengd (NSAIDs + ACE-I + þvagræsilyf). Lyf stöðvuð, vökvagjöf.
+
+================================================================================
+
+[Query 70/83]
+
+🔍 Query: 'þvagprufa jákvæð'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8787]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+2. ⭐ HIGH [Score: 0.8772]
+   Glútenóþol staðfest. Anti-TTG hátt, villous atrophy á sýni. Glútenlaust mataræði. Eftirlit með B12, járn, D-vítamín.
+
+3. ⭐ HIGH [Score: 0.8729]
+   COVID-19 eftirköst. Þreyta og mæði við áreynslu 3 mánuðum eftir sýkingu. Súrefnismettun 94% í hvíld. CT brjóstkassa eðlilegt. Endurhæfing ráðlögð.
+
+================================================================================
+
+[Query 71/83]
+
+🔍 Query: 'röntgen óeðlileg lungna'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8965]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+2. ⭐ HIGH [Score: 0.8937]
+   Lungnaberklar grunur. Þrálátur hósti, nætursviti, þyngdartap. Mantoux +, röntgen sýnir apical changes. Sputum sent, einangrun.
+
+3. ⭐ HIGH [Score: 0.8877]
+   Lungnakrabbamein miðlungs langt komið. Reykt í 45 ár. Þyngdartap 8kg á 2 mán. Blóðhósti. CT sýnir 4cm æxli hægra efra blaði með miðmætiseitlum. Vísað til lungnalæknis.
+
+================================================================================
+
+[Query 72/83]
+
+🔍 Query: 'blóðsykur fastandi hár'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8834]
+   Sickle cell crisis. Verkir í brjóstkassa og baki. Hb 65. Vökvagjöf, súrefni, opioid verkjalyf. Exchange transfusion íhugað.
+
+2. ⭐ HIGH [Score: 0.8828]
+   Járnskortsblóðleysi. Hb 85, MCV 65, ferritin lágt. Menorrhagia orsök. Járn infusion vegna óþols við oral járn. Gynae tilvísun.
+
+3. ⭐ HIGH [Score: 0.8760]
+   Polycythemia vera. Hb 185, hematocrit 55%, kláði eftir bað. JAK2 stökkbreyting +. Phlebotomy og aspirin. Hydroxyurea íhugað.
+
+================================================================================
+
+[Query 73/83]
+
+🔍 Query: 'lifrarpróf hækkuð'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8879]
+   Lifrarsjúkdómur af völdum áfengis. Ascites, gula, spider naevi. Bilirubin 85, albumin lágt. Spironolactone og furosemide. Áfengisbindindi nauðsynlegt.
+
+2. ⭐ HIGH [Score: 0.8750]
+   Lifrarbólga C nýgreind. Þreyta, óljós kviðverkur. Anti-HCV +, PCR staðfestir. Genotype ákvörðun. Direct-acting antivirals fyrirhugað.
+
+3. ⭐ HIGH [Score: 0.8737]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+================================================================================
+
+[Query 74/83]
+
+🔍 Query: 'metformin byrjunarskammtur'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.9040]
+   Sykursýki týpa 2 nýgreind. HbA1c 8.9%. Fastandi glúkósi 11.2 mmol/L. BMI 32. Byrjað á metformin 500mg x2, titles upp. Ráðgjöf um mataræði og hreyfingu.
+
+2. ⭐ HIGH [Score: 0.8963]
+   Insúlínviðnám. PCOS hjá 28 ára konu. BMI 29, óreglulegar tíðir. OGTT sýnir IGT. Metformin 850mg x2, ráðlagt þyngdartap.
+
+3. ⭐ HIGH [Score: 0.8909]
+   Bráð nýrnabilun af völdum metformin. Kreatínín 350. Acidosis pH 7.25. Metformin stöðvað, vökvagjöf, dialysis íhuguð.
+
+================================================================================
+
+[Query 75/83]
+
+🔍 Query: 'blóðþrýstingslyf ACE hemlar'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8785]
+   Nýrnabilun bráð. Kreatínín hækkaði úr 90 í 450 á viku. Lyfjatengd (NSAIDs + ACE-I + þvagræsilyf). Lyf stöðvuð, vökvagjöf.
+
+2. ⭐ HIGH [Score: 0.8775]
+   Hemophilia A mild. Blæðing eftir tanndrátt. Factor VIII 15%. Desmopressin fyrir minor inngrip. Factor concentrate fyrir major.
+
+3. ⭐ HIGH [Score: 0.8771]
+   Langvinn nýrnabilun stig 3b. eGFR 35, kreatínín 180. Blóðþrýstingur vel stjórnaður. Prótein í þvagi. ESA fyrir blóðleysi, phosphate binders.
+
+================================================================================
+
+[Query 76/83]
+
+🔍 Query: 'þunglyndislyf SSRI'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8924]
+   Alvarlegt þunglyndi með sjálfsvígshugleiðingum. PHQ-9 skor 22. Svefntruflanir, lystarleysi, þyngdartap 5kg. Byrjað á sertraline 50mg og vísað til geðlæknis strax.
+
+2. ⭐ HIGH [Score: 0.8896]
+   Mígreni með áru. Höfuðverkur 2-3x/viku með sjóntruflunum. Sumatriptan til bráðameðferðar, propranolol til fyrirbyggjandi meðferðar.
+
+3. ⭐ HIGH [Score: 0.8893]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+================================================================================
+
+[Query 77/83]
+
+🔍 Query: 'sýklalyf lungnabólga'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8959]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+2. ⭐ HIGH [Score: 0.8927]
+   Lungnabólga hægra neðra blaði. Hiti 39°C, hósti með gulum uppgangi. CRP 180, WBC 18. Röntgen staðfestir. Meðferð með amoxicillin/clavulanic acid 875/125mg x3.
+
+3. ⭐ HIGH [Score: 0.8842]
+   Berkjubólga bráð. Þurr hósti í 2 vikur eftir kvef. Hreinir lungu við hlustun. CRP <5. Ráðlagt symptomatic meðferð, inhalation með NaCl.
+
+================================================================================
+
+[Query 78/83]
+
+🔍 Query: 'verkjalyf langvinnir verkir'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8766]
+   Garnastífla. Kviðverkir, uppköst, vindgangur stöðvaður. Röntgen sýnir dilated loops. Nasogastric tube, vökvagjöf. Fylgst með hvort skurðaðgerð þurfi.
+
+2. ⭐ HIGH [Score: 0.8759]
+   Chronic retention. Þvagstífla endurtekin. Residual >300ml. Foley catheter. Urology tilvísun fyrir TURP íhugun.
+
+3. ⭐ HIGH [Score: 0.8752]
+   Fibromyalgia. Útbreiddur verkur >3 mánuði, þreyta, svefntruflanir. Tender points 14/18. Amitriptyline 25mg og þverfagleg nálgun.
+
+================================================================================
+
+[Query 79/83]
+
+🔍 Query: 'steróíðar bólgusjúkdómar'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8814]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
+
+2. ⭐ HIGH [Score: 0.8808]
+   Polymyalgia rheumatica. Verkir í öxlum og mjöðmum, morgunstirðleiki. ESR 85, CRP hátt. Prednisolone 15mg með slow taper.
+
+3. ⭐ HIGH [Score: 0.8788]
+   Carpal tunnel syndrome. Dofi í þumal-, vísi- og löngutöng. Tinel's og Phalen's +. EMG staðfestir. Spelka, steroid injection eða skurðaðgerð.
+
+================================================================================
+
+[Query 80/83]
+
+🔍 Query: 'blóðþynning atrial fib'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8796]
+   Heilablóðfall ischaemic. Vinstri helftarlömun, málstol. CT útilokað blæðingu. tPA gefið innan 4.5 klst. Innlögn á stroke unit.
+
+2. ⭐ HIGH [Score: 0.8755]
+   Hemophilia A mild. Blæðing eftir tanndrátt. Factor VIII 15%. Desmopressin fyrir minor inngrip. Factor concentrate fyrir major.
+
+3. ⭐ HIGH [Score: 0.8721]
+   Immune thrombocytopenia. Blæðingar í húð, platelets 15. Önnur orsök útilokaðar. Prednisolone 1mg/kg. IVIG ef bráð blæðing.
+
+================================================================================
+
+[Query 81/83]
+
+🔍 Query: 'astmalyf innöndun'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8959]
+   Astmi illa stjórnað. Notar Ventolin daglega. Nætureinkenni 3x/viku. PEF 60% af besta gildi. Meðferð aukin: Seretide 50/500 x2, montelukast 10mg x1.
+
+2. ⭐ HIGH [Score: 0.8902]
+   COVID-19 með lungna involvement. Súrefnismettun 88%, bilateral infiltrates. Dexamethasone, remdesivir. Prone positioning.
+
+3. ⭐ HIGH [Score: 0.8739]
+   Garnastífla. Kviðverkir, uppköst, vindgangur stöðvaður. Röntgen sýnir dilated loops. Nasogastric tube, vökvagjöf. Fylgst með hvort skurðaðgerð þurfi.
+
+================================================================================
+
+[Query 82/83]
+
+🔍 Query: 'insúlín týpur skammtar'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8918]
+   Sykursýki týpa 1. Slæm blóðsykurstjórn, HbA1c 10.2%. Gleymist oft insúlín. CGM sett upp. Insulin degludec og aspart. Fræðsla aukin.
+
+2. ⭐ HIGH [Score: 0.8904]
+   Sykursýki týpa 2 nýgreind. HbA1c 8.9%. Fastandi glúkósi 11.2 mmol/L. BMI 32. Byrjað á metformin 500mg x2, titles upp. Ráðgjöf um mataræði og hreyfingu.
+
+3. ⭐ HIGH [Score: 0.8850]
+   Insúlínviðnám. PCOS hjá 28 ára konu. BMI 29, óreglulegar tíðir. OGTT sýnir IGT. Metformin 850mg x2, ráðlagt þyngdartap.
+
+================================================================================
+
+[Query 83/83]
+
+🔍 Query: 'kvíðalyf bráðameðferð'
+================================================================================
+
+1. ⭐ HIGH [Score: 0.8839]
+   Berkjubólga bráð. Þurr hósti í 2 vikur eftir kvef. Hreinir lungu við hlustun. CRP <5. Ráðlagt symptomatic meðferð, inhalation með NaCl.
+
+2. ⭐ HIGH [Score: 0.8788]
+   Geðhvarfasýki týpa II. Þunglyndiskast í 3 vikur, saga um hypomaníu. Lithium hafið, þéttni fylgst með. Geðlækniseftirlit.
+
+3. ⭐ HIGH [Score: 0.8783]
+   Stevens-Johnson syndrome. Lyfjatengd, sloughing húð. Innlögn á gjörgæslu. Stopp offending drug, stuðningsmeðferð.
